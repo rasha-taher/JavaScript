@@ -1,0 +1,57 @@
+body{
+    background-color:darkcyan;
+    justify-content: center;
+}
+
+.container{
+  background-color: white;
+    height:300px;
+    width: 300px;
+    padding: 15px;
+    border-radius: 35px;
+    margin: 0 auto;
+}
+
+.circle{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    background-color: rgb(87, 79, 79);
+    display: block;
+}
+.grey{
+    color: slategrey;
+}
+.image{
+    width: 20px;
+    height: 20px;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.sub{
+    width:300px;
+    height: 40px;
+    text-align: center;
+    color: white;
+    background-color: rgb(23, 23, 184);
+    border-radius: 40px;
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+.job{
+    display: block;
+    margin: auto;
+    padding: auto;
+    align-items: center;
+}
+
+.numbers{
+    border-radius: 50%;
+    border: 1px solid rgb(2, 2, 235);
+    text-align: center;
+    margin-right: 10px;
+    height: 40px;
+    width:40px;
+}
