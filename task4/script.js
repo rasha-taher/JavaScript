@@ -21,6 +21,4 @@ console.log(arr3[4]);
 console.log(arr3[5]);
 
 
-
-
 console.log(arr1+arr2+arr3);
