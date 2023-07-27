@@ -1,6 +1,6 @@
-let i;
+let randomNumber;
 
-while (ir <= 8) {
-  i = Math.floor(Math.random() * 10) + 1;
-  console.log(i);
-}
+do {
+  randomNumber = Math.floor(Math.random() * 10) + 1;
+  console.log(randomNumber);
+} while (randomNumber <= 8);
